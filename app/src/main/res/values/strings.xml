@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calories Counter</string>
+    <string name="cal_remain">Calories Remaining</string>
+    <string name="cal_total">Total Calories</string>
+    <string name="btn_add">Add Food Item</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_clear">Clear All</string>
+    <string name="cal_enter">Enter Total Calories</string>
+    <string name="enter_name">Enter the Food Name</string>
+    <string name="enter_cal">Enter the Calories</string>
+    <string name="add_food">Add Food Here</string>
+</resources>
